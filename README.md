@@ -49,11 +49,15 @@
 
 学术界：CVPR、ECCV、ICCV三大顶会每年和3D视觉相关主题的文章数量保持在十分之一左右，主要关注3D点云的识别与分割、单目图像深度图的生成、3D物体检测、语义SLAM、三维重建、结构光等。
 
-![](imgs/1.png)
+![](imgs/star/1.jpg)
+![](imgs/star/2.jpg)
+![](imgs/star/3.jpg)
 
 工业界：3D视觉技术被广泛应用到人脸识别、智能机器人、自动驾驶、AR等领域，国内外相关公司推出了一系列产品。OPPO、华为和苹果等公司推出的3D+AI识别功能，通过扫描人脸三维结构完成手机解锁；自动驾驶领域通过分析3D人脸信息，判断司机驾驶时的情绪状态；SLAM方式通过重建周边环境，完成建图与感知；AR领域通过三维重建技术完成目标的重现。
 
-![](imgs/2.png)
+![](imgs/star/4.jpg)
+![](imgs/star/5.jpg)
+![](imgs/star/6.jpg)
 
 **3D视觉技术学习的难点？**
 
@@ -67,7 +71,24 @@
 
 基于3D视觉领域缺少完整的知识路线，我和几个朋友共同完成了3D视觉技术学习路线总结，并以思维导图的形式呈现出来，主要包括0~16个小结，其中每个小结代表特定区域的知识点。学习路线的总结，需要较宽的知识面，由于自身有一定的知识盲区，若有缺漏之处还望指出，后续将会不断更新维护该学习路线~
 
-![](imgs/3.png)
+![](imgs/star/7.jpg)
+![](imgs/star/8.jpg)
+![](imgs/star/9.jpg)
+![](imgs/star/10.jpg)
+![](imgs/star/11.jpg)
+![](imgs/star/12.jpg)
+![](imgs/star/13.jpg)
+![](imgs/star/14.jpg)
+![](imgs/star/15.jpg)
+![](imgs/star/16.jpg)
+![](imgs/star/17.jpg)
+![](imgs/star/18.jpg)
+![](imgs/star/19.jpg)
+![](imgs/star/20.jpg)
+![](imgs/star/21.jpg)
+![](imgs/star/22.jpg)
+![](imgs/star/23.jpg)
+![](imgs/star/24.jpg)
 
 从入门到进阶学习3D视觉核心技术，扫描入群，3天内无条件退款
 ![](imgs/3D视觉从入门到精通.jpg)
