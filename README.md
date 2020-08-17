@@ -10,6 +10,7 @@
 
 
 <a name="前言"></a>
+
 ## 一 前言 
 3D视觉学习攻略：涵盖**3D视觉工坊**微信公众号所有技术文章、「3D视觉从入门到精通」技术星球的部分精华帖及Q&A,及系统学习3D视觉的路线图。
 
@@ -35,10 +36,8 @@
 
 ![](imgs/加群.jpg)
 
-### 2.3 历史文章精选
-[3D视觉技术文章精选](https://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=100001887&idx=1&sn=d1d29416a887f92c666c4d8da01c7f1b&chksm=7bff236b4c88aa7da9ea5edc38359bdbf512e92a3edc3dc4a44f99555c85937eb902962ac91a&mpshare=1&scene=1&srcid=&sharer_sharetime=1582455975763&sharer_shareid=08a5efa40af25b6a57bd07cf52cdcd42&exportkey=AzdZ0fStYGi%2Bf1mNIFczIys%3D&pass_ticket=ZZPVQ3htSzhqRhnYzbG%2BPGJEn%2F7vUeyAl%2BcHmlQ9GBuaYSvZ%2BHgUDhPx0CVivf4P#rd)
-
-<a name="知识星球"></a>
+### 2.3 3D视觉精品原创文章
+[3D视觉原创文章精选](https://github.com/3DCVer/awesome-3D-Vision-Papers)
 
 ### 三 3D视觉系统化学习路线 
 我们生活在三维空间中，如何智能地感知和探索外部环境一直是个热点难题。2D视觉技术借助强大的计算机视觉和深度学习算法取得了超越人类认知的成就，而3D视觉则因为算法建模和环境依赖等问题，一直处于正在研究的前沿。近年来，3D视觉技术快速发展，并开始结合深度学习算法，在智能制造、自动驾驶、AR/VR、SLAM、无人机、三维重建、人脸识别等领域取得了优异的效果。
